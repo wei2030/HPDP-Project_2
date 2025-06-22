@@ -1,0 +1,5 @@
+
+:: loading settings :: url = jar:file:/opt/bitnami/spark/jars/ivy-2.5.1.jar!/org/apache/ivy/core/settings/ivysettings.xml
+Γ£à Accuracy: 0.8240
+Γ£à Model saved to: /tmp/imdb_sentiment_model_20250616_070837
+Γ£à Predictions written to Elasticsearch.
